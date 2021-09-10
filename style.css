@@ -1,0 +1,137 @@
+.header{
+    background: #023246;
+}
+#logo{
+    font-family: 'Caveat', cursive;
+}
+.welcome-text{
+    font-size: 50px;
+    margin-top: 145px;
+    color: #023246;
+    padding-bottom: 30px;
+}
+.section-1{
+    background: #F6F6F6;
+    
+}
+.welcome-text-2{
+    color: #023246;
+
+}
+.btn{
+    margin-top: 29px;
+    margin-left: 30px;
+    border-radius: 8px;
+    margin-bottom: 53px;
+}
+.hr-1{
+    background: #023246;
+    
+}
+.head-bars{
+    font-family: 'Roboto Slab', serif;
+    color: #023246;
+    letter-spacing: 1px;
+
+}
+.skill-name{
+    font-size: 14px;
+}
+.progress-bar {
+    background: #023246;
+}
+.skill-hr{
+    width: 110px;
+  background: #023246;
+    
+}
+.section-3{
+    background: #F6F6F6;
+    padding-top: 43px;
+}
+.about-hr{
+    width: 180px;
+  background: #023246;
+    
+}
+.about-text{
+    color: #023246;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 19px;
+    padding-bottom: 67px;
+}
+.head-bar3{
+    font-family: 'Roboto Slab', serif;
+    color: #023246;
+    letter-spacing: 1px;
+    
+}
+.find-hr{
+    width: 145px;
+  background: #023246;
+    
+}
+.c-hr{
+    width: 190px;
+  background: #023246;
+    
+}
+.footer{
+    background: #023246;
+    margin-top: -16px;
+}
+.d-hr{
+    background: #F6F6F6;
+    width: 130px;
+}
+.fas{
+    font-size: 14px;
+    padding-left: 41px;
+    
+  
+}
+.far{
+    font-size: 14px;
+    padding-left: 41px;
+    
+  
+}
+#fak{
+    font-size: 14px;
+    padding-left: 41px;
+    padding-top: 19px;
+    
+  
+}
+.last{
+    height: 150px;
+    background: #F6F6F6;
+}
+@media screen and (max-width:500px) {
+    #spi{
+        font-size: 15px;
+    }
+    
+}
+.fab{
+    font-size: 35px;
+    text-decoration: none;
+    color:#023246;
+}
+@media screen and (max-width:1670px) {
+    .iframe{
+        width: 550px;
+        
+
+    }
+}
+@media screen and (max-width:500px) {
+    .iframe{
+        width: 300px;
+        margin-left: 20px;
+    }
+}
+.quk-link{
+    text-decoration: none;
+    color: #F6F6F6;
+}
